@@ -1,3 +1,9 @@
+-----
+
+**Repository with the source code was moved to https://github.com/Nepanikar**
+
+-----
+
 # Nepanikař!
 
 First aid for psychological issues - Official mobile app for [nepanikar.eu](https://nepanikar.eu/)
